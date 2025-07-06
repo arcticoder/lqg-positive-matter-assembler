@@ -396,7 +396,9 @@ print(f"Overall Safety Score: {safety_results['safety_score']:.1%}")
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is released into the **public domain** under the [Unlicense](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+**Public Domain Declaration**: This work is dedicated to the public domain. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
 ## Contributing
 
