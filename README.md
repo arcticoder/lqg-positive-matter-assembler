@@ -1,5 +1,15 @@
 # LQG Positive Matter Assembler
 
+## Related Repositories
+
+- [energy](https://github.com/arcticoder/energy): Central meta-repo for all energy, quantum, and matter assembly research. This assembler is integrated for positive matter configuration.
+- [enhanced-simulation-hardware-abstraction-framework](https://github.com/arcticoder/enhanced-simulation-hardware-abstraction-framework): Primary integration providing quantum-enhanced precision and digital twin capabilities.
+- [unified-lqg](https://github.com/arcticoder/unified-lqg): Supplies LQG spacetime discretization and quantum geometric field generation framework.
+- [lqg-ftl-metric-engineering](https://github.com/arcticoder/lqg-ftl-metric-engineering): Uses positive matter distributions for T_μν ≥ 0 enforcement in FTL applications.
+- [warp-field-coils](https://github.com/arcticoder/warp-field-coils): Integrates for hardware-in-the-loop synchronization with Bobrick-Martire geometry shaping.
+
+All repositories are part of the [arcticoder](https://github.com/arcticoder) ecosystem and link back to the energy framework for unified documentation and integration.
+
 **🌌 T_μν ≥ 0 Matter Distribution Configuration Using Bobrick-Martire Geometry Shaping**
 
 Revolutionary positive matter assembly technology providing **controlled T_μν ≥ 0 matter distributions** through LQG-enhanced Bobrick-Martire geometry shaping. Integrates Loop Quantum Gravity spacetime discretization, stress-energy tensor control, and quantum geometric field generation for unprecedented positive matter configuration with complete safety validation.
